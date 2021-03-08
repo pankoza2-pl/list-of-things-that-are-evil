@@ -37,6 +37,7 @@ TODO: Make a website with theese things using the LAMP stack (Linux/Apache/MySQL
 - Instagram
 - Google Sites
 - Python
+- Rethinkdb
 
 # Things that are good
 - PHP
@@ -74,3 +75,5 @@ TODO: Make a website with theese things using the LAMP stack (Linux/Apache/MySQL
 - SWFObject
 - Sieciuchy
 - Reddit
+- Browser plugins
+- Vanilla JS
