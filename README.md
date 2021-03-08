@@ -12,6 +12,7 @@ I was bored.
 - Angular
 - Vue (it generates invalid HTML)
 - Invalid HTML
+- Closing the \<img\> tag
 - TikTok and other platforms of that kind
 - Polish
 - Poland
