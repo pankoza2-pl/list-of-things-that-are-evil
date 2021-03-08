@@ -15,6 +15,8 @@ TODO: Make a website with theese things using the LAMP stack (Linux/Apache/MySQL
 - Vue (it generates invalid HTML)
 - Invalid HTML
 - Closing the \<img\> tag
+- Closing the \<link\> tag
+- Closing the \<meta\> tag
 - TikTok and other platforms of that kind
 - Polish
 - Poland
