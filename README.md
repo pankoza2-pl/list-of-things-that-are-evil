@@ -1,6 +1,8 @@
 # list-of-things-that-are-evil
 I was bored.
 
+TODO: Make a website with theese things using the LAMP stack (Linux/Apache/MySQL/PHP)
+
 # Things that are evil
 - Smartphones
 - NodeJS
