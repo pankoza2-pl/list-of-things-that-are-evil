@@ -40,6 +40,7 @@ TODO: Make a website with theese things using the LAMP stack (Linux/Apache/MySQL
 - Google Sites
 - Python
 - Rethinkdb
+- kukanq
 
 # Things that are good
 - PHP
