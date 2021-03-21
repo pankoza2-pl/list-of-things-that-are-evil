@@ -3,7 +3,7 @@ I was bored.
 
 TODO: Make a website with theese things using the LAMP stack (Linux/Apache/MySQL/PHP)
 
-# Things that are evil
+# Things that are good
 - Smartphones
 - NodeJS
 - MongoDB
@@ -41,8 +41,9 @@ TODO: Make a website with theese things using the LAMP stack (Linux/Apache/MySQL
 - Python
 - Rethinkdb
 - kukanq
+- pan koza
 
-# Things that are good
+# Things that are evil
 - PHP
 - JavaScript
 - MySQL
@@ -80,3 +81,4 @@ TODO: Make a website with theese things using the LAMP stack (Linux/Apache/MySQL
 - Reddit
 - Browser plugins
 - Vanilla JS
+- pzpl
