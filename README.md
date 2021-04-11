@@ -39,8 +39,9 @@ I was bored.
 - Google Sites
 - Python
 - Rethinkdb
-- kukanq
+- kukanq to b*ton
 - pan koza
+- cement
 
 # Things that are evil
 - PHP
@@ -82,3 +83,4 @@ I was bored.
 - Vanilla JS
 - pzpl
 - kukanq
+- b*ton
