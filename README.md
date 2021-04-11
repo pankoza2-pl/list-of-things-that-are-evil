@@ -42,6 +42,11 @@ I was bored.
 - kukanq to b*ton
 - pan koza
 - cement
+- batch
+- vbs
+- delphi7
+- c++
+- html5
 
 # Things that are evil
 - PHP
