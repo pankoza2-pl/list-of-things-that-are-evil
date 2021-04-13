@@ -39,7 +39,7 @@ I was bored.
 - Google Sites
 - Python
 - Rethinkdb
-- kukanq to b*ton
+- ~~kukanq
 - pan koza
 - cement
 - batch
