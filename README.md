@@ -47,6 +47,7 @@ I was bored.
 - delphi7
 - c++
 - html5
+- vb6
 
 # Things that are evil
 - PHP
@@ -89,3 +90,5 @@ I was bored.
 - pzpl
 - kukanq
 - b*ton
+- vb.net
+- c#
