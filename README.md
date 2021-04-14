@@ -1,5 +1,5 @@
 # list-of-things-that-are-evil
-I was bored.
+I was bored. (fork bo chce dać panukozie pull requesta)
 
 
 # Things that are good
@@ -9,8 +9,6 @@ I was bored.
 - Chrome
 - The *cloud* (aka. computers of other people)
 - ngnix
-- React
-- Angular
 - Vue (it generates invalid HTML)
 - Invalid HTML
 - Closing the \<img\> tag
@@ -21,74 +19,41 @@ I was bored.
 - Poland
 - Arch Linux
 - Google
-- Light Theme
+- Dark Theme
 - Dvorak
-- 12 Hour system
-- Closed Source
 - Date formats that are not ISO 8601
 - Family
 - Excerise
-- MS Office
 - YAML
 - Docker
 - NPM
 - Express.js
 - Moment.js
-- Sieciaki
+- Sieciuchy
 - Instagram
 - Google Sites
 - Python
 - Rethinkdb
-- ~~kukanq~~
-- pan koza
 - cement
-- batch
-- vbs
 - delphi7
 - c++
 - html5
-- vb6
 
 # Things that are evil
-- PHP
-- JavaScript
-- MySQL
 - Firefox
-- CSS
-- HTML
-- Linux
 - Apache
 - Sliverlight
-- Flash
 - XML
-- Ubuntu
-- Gnome
-- KDE
-- jQuery
-- ActionScript
-- VSCode
-- DuckDuckGo
-- 24 hour sytem
+- 12 hour sytem
 - ISO 8601
-- Tea
-- Programming
-- Open Source
-- Spreadsheets
-- LibreOffice
 - Mozilla
 - English
 - 3DVIA Player
 - Adobe Shockwave Player
 - Authorware
-- Java Plug-in
-- Unity Web Player
 - SWFObject
-- Sieciuchy
-- Reddit
 - Browser plugins
 - Vanilla JS
-- pzpl
+- pankoza
 - kukanq
 - b*ton
-- vb.net
-- c#
