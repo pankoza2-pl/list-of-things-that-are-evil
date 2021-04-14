@@ -10,7 +10,6 @@ I was bored. (fork bo chce dać panukozie pull requesta)
 - The *cloud* (aka. computers of other people)
 - ngnix
 - Vue (it generates invalid HTML)
-- Invalid HTML
 - Closing the \<img\> tag
 - Closing the \<link\> tag
 - Closing the \<meta\> tag
@@ -35,7 +34,6 @@ I was bored. (fork bo chce dać panukozie pull requesta)
 - Python
 - Rethinkdb
 - cement
-- delphi7
 - c++
 - html5
 
@@ -46,7 +44,6 @@ I was bored. (fork bo chce dać panukozie pull requesta)
 - XML
 - 12 hour sytem
 - ISO 8601
-- Mozilla
 - English
 - 3DVIA Player
 - Adobe Shockwave Player
