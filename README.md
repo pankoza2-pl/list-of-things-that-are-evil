@@ -55,7 +55,7 @@ I was bored.
 - MySQL
 - Firefox
 - CSS
-- HTML
+- HTML older than HTML5
 - Linux
 - Apache
 - Sliverlight
