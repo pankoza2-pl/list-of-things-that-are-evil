@@ -48,6 +48,7 @@ I was bored.
 - c++
 - html5
 - vb6
+- winrar
 
 # Things that are evil
 - PHP
@@ -92,3 +93,4 @@ I was bored.
 - b*ton
 - vb.net
 - c#
+- 7-zip
