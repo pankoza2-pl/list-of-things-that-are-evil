@@ -2,6 +2,54 @@
 I was bored.
 
 
+
+
+# Things that are evil
+- PHP
+- JavaScript
+- MySQL
+- Firefox
+- CSS
+- HTML older than HTML5
+- Linux
+- Apache
+- Sliverlight
+- Flash
+- XML
+- Ubuntu
+- Gnome
+- KDE
+- jQuery
+- ActionScript
+- VSCode
+- DuckDuckGo
+- 24 hour sytem
+- ISO 8601
+- Tea
+- Programming
+- Open Source
+- Spreadsheets
+- LibreOffice
+- Mozilla
+- English
+- 3DVIA Player
+- Adobe Shockwave Player
+- Authorware
+- Java Plug-in
+- Unity Web Player
+- SWFObject
+- Sieciuchy
+- Reddit
+- Browser plugins
+- Vanilla JS
+- pzpl
+- kukanq
+- b*ton
+- vb.net
+- c#
+- 7-zip
+- testportal
+
 # Things that are good
 - Smartphones
 - NodeJS
@@ -49,48 +97,3 @@ I was bored.
 - html5
 - vb6
 - winrar
-
-# Things that are evil
-- PHP
-- JavaScript
-- MySQL
-- Firefox
-- CSS
-- HTML older than HTML5
-- Linux
-- Apache
-- Sliverlight
-- Flash
-- XML
-- Ubuntu
-- Gnome
-- KDE
-- jQuery
-- ActionScript
-- VSCode
-- DuckDuckGo
-- 24 hour sytem
-- ISO 8601
-- Tea
-- Programming
-- Open Source
-- Spreadsheets
-- LibreOffice
-- Mozilla
-- English
-- 3DVIA Player
-- Adobe Shockwave Player
-- Authorware
-- Java Plug-in
-- Unity Web Player
-- SWFObject
-- Sieciuchy
-- Reddit
-- Browser plugins
-- Vanilla JS
-- pzpl
-- kukanq
-- b*ton
-- vb.net
-- c#
-- 7-zip
